@@ -1,0 +1,36 @@
+body{
+    margin: 20px 30px 20px 30px;
+    background-color: cadetblue;
+}
+header{
+    background-color: red;
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+} 
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  section{
+      background-color: aqua;
+      padding: 10px;
+      text-align:left;
+      height: 900px;
+      margin: 30px 20px 30px 20px ;
+  }
+  nav{
+      background-image: linear-gradient(rgba(20, 71, 238, 0.897),rgb(236, 241, 241));
+      padding:20px;
+      text-align: center;
+      
+  }
+.container{
+    width: 900px;
+    height: 900px;
+}
+form{
+    background-image: linear-gradient(orange, white);
+}
