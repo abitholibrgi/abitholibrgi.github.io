@@ -1,0 +1,1 @@
+<?php  $page='card'; require('config.php') ; ?>
